@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 ###Bem vindo ao meu perfil 
 
 ##Meu nome é Bruno Gabriel

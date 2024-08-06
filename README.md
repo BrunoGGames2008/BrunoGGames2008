@@ -8,7 +8,7 @@
 * Estudo na escola: Dona Elvira Santos de Oliveira
 * Estou atualmente no segundo ano do ensino medio
 * Pretendo cursar TI alguns mêses após terminar a escola
-* Atualmente trabalho como chaveiro na loja do meu pai
+* Atualmente trabalho como chaveiro de tarde
 * Faço curso de inglês duas vezes por semana
 * Estou aprendendo aos poucos o basico de HTML e CSS para passar o tempo
 

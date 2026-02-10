@@ -1,13 +1,10 @@
 ###Bem vindo ao meu perfil 
 
 ##Meu nome é Bruno Gabriel
-* Tenho 16 anos
-* Estudo na escola: Dona Elvira Santos de Oliveira
-* Estou atualmente no segundo ano do ensino medio
-* Pretendo cursar TI alguns mêses após terminar a escola
-* Atualmente trabalho como chaveiro de tarde
-* Faço curso de inglês duas vezes por semana
-* Estou aprendendo aos poucos o basico de HTML e CSS para passar o tempo
+* Tenho 17 anos
+* Estou na cursando faculdade de Desenvolvimento de Software Multiplataforma na Fatec Itapira 
+* Completei o ensino médio em 2025
+* Atualmente trabalho como chaveiro
 
 Caso queira me contatar o meu e-mail é: brunogabrielribeirodossantos@gmail.com
 

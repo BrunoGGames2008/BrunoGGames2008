@@ -2,7 +2,7 @@
 
 ##Meu nome é Bruno Gabriel
 * Tenho 17 anos
-* Estou na cursando faculdade de Desenvolvimento de Software Multiplataforma na Fatec Itapira 
+* Estou cursando uma faculdade de Desenvolvimento de Software Multiplataforma na Fatec
 * Completei o ensino médio em 2025
 * Atualmente trabalho como chaveiro e tenho uma renda extra com impressão 3d
 

@@ -4,7 +4,7 @@
 * Tenho 17 anos
 * Estou na cursando faculdade de Desenvolvimento de Software Multiplataforma na Fatec Itapira 
 * Completei o ensino médio em 2025
-* Atualmente trabalho como chaveiro
+* Atualmente trabalho como chaveiro e tenho uma renda extra com impressão 3d
 
 Caso queira me contatar o meu e-mail é: brunogabrielribeirodossantos@gmail.com
 
